@@ -1,6 +1,6 @@
 # Olá, sou o Julio 👋
 
-Sou desenvolvedor e UI/UX design com em média 5 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Angular, Vue.js, Tailwind CSS, Git e GitHub e muito mais..
+Sou desenvolvedor e UI/UX design com mais de 6 anos de experiência, atuando principalmente com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Angular, Vue.js, Tailwind CSS, Git e GitHub e muito mais..
 
 Estou sempre disposto a encarar novos desafios e projetos! Se precisar de um parceiro pra somar no seu time ou projeto, estoua disposição!
 
